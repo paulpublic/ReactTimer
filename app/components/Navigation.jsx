@@ -11,7 +11,7 @@ var Navigation = (props) => {
             <Link to='/' activeClassName='active'>Times</Link>
           </li>
           <li>
-            <Link to='/' activeClassName='active'>Countdown</Link>
+            <Link to='/countdown' activeClassName='active'>Countdown</Link>
           </li>
         </ul>
       </div>

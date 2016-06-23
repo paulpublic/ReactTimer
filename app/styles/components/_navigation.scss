@@ -6,4 +6,8 @@
   .menu-text {
     color: $nav-text-color;
   }
+
+  a.active {
+    font-weight: bold;
+  }
 }
